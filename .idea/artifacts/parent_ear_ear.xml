@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="parent-ear:ear">
+    <output-path>$PROJECT_DIR$/ear/target</output-path>
+    <root id="archive" name="Java EE 7 Skeleton.ear">
+      <element id="artifact" artifact-name="parent-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>
