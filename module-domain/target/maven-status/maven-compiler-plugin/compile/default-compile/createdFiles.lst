@@ -1,0 +1,15 @@
+org\ban\entities\CartItem.class
+org\ban\entities\CustomerOrder.class
+org\ban\entities\Supplier.class
+org\ban\entities\Individual.class
+org\ban\entities\Distributor.class
+org\ban\entities\Address.class
+org\ban\entities\WineItem.class
+org\ban\entities\test\JavaServiceFacadeClient.class
+org\ban\entities\InventoryItem.class
+org\ban\entities\test\JavaServiceFacade.class
+org\ban\entities\Customer.class
+org\ban\entities\Wine.class
+org\ban\entities\OrderItem.class
+org\ban\entities\BusinessContact.class
+org\ban\entities\test\PopulateDemoData.class

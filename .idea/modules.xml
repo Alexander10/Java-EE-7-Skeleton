@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-EE-7-Skeleton.iml" filepath="$PROJECT_DIR$/Java-EE-7-Skeleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear/ear.iml" filepath="$PROJECT_DIR$/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-domain/module-domain.iml" filepath="$PROJECT_DIR$/module-domain/module-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-domain/module-domain.iml" filepath="$PROJECT_DIR$/module-domain/module-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-ejb/module-ejb.iml" filepath="$PROJECT_DIR$/module-ejb/module-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-service/module-service.iml" filepath="$PROJECT_DIR$/module-service/module-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-service/module-service (1).iml" filepath="$PROJECT_DIR$/module-service/module-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-service/module-service (1).iml" filepath="$PROJECT_DIR$/module-service/module-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-test/module-test.iml" filepath="$PROJECT_DIR$/module-test/module-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-web/module-web.iml" filepath="$PROJECT_DIR$/module-web/module-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ear/parent-ear.iml" filepath="$PROJECT_DIR$/ear/parent-ear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-test/test.iml" filepath="$PROJECT_DIR$/module-test/test.iml" />
     </modules>
   </component>
 </project>
+

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ear" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-ejb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/module-web" charset="UTF-8" />
   </component>
 </project>
+

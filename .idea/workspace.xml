@@ -2,49 +2,258 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7df853-ef7f-49dc-9cd2-7968eddfb9bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/test/resources/arquillian.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/src/test/resources/jboss-deployment-structure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\domain\target\classes\ban\org\entities\SampleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\ear\ear.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\service\target\classes\ban\org\services\SampleService.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\web\target\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\domain-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="MOVED" beforePath="C:\Dev\Java-EE-7-Skeleton\domain\src\main\java\ban\org\entities\SampleEntity.java" afterPath="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/SampleEntity.java" />
-      <change type="MOVED" beforePath="C:\Dev\Java-EE-7-Skeleton\service\src\main\java\ban\org\services\SampleService.java" afterPath="$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java" />
-      <change type="MOVED" beforePath="C:\Dev\Java-EE-7-Skeleton\web\src\main\java\ban\org\servlet\SampleServlet.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/ban/servlet/SampleServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/target/domain.jar" afterPath="$PROJECT_DIR$/domain/target/domain.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/target/service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/service/target/service-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/service-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web.war" afterPath="$PROJECT_DIR$/web/target/web.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/target/application.xml" afterPath="$PROJECT_DIR$/ear/target/application.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/domain.iml" afterPath="$PROJECT_DIR$/domain/domain.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/domain/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/web/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-test/src/test/resources/arquillian.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-test/src/test/resources/META-INF/persistance.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-service/pom.xml" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__c3p0_c3p0_0_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__com_solarmax_web_parser_1_3_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__com_solarmax_web_web_ejb_1_3_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__com_sun_mail_javax_mail_1_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__commons_logging_commons_logging_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__io_undertow_undertow_core_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javassist_javassist_3_9_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_activation_activation_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_ejb_ejb_api_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_enterprise_cdi_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_mail_mail_1_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_commons_commons_email_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_aether_provider_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_model_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_model_builder_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_repository_metadata_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_settings_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_maven_settings_builder_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_wagon_wagon_file_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_wagon_wagon_http_lightweight_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_wagon_wagon_http_shared_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_maven_wagon_wagon_provider_api_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_apache_poi_poi_3_2_FINAL.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_codehaus_plexus_plexus_interpolation_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_codehaus_plexus_plexus_utils_3_0_15.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_dbunit_dbunit_2_4_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_eclipse_aether_aether_api_0_9_0_M3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_eclipse_aether_aether_connector_wagon_0_9_0_M2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_eclipse_aether_aether_impl_0_9_0_M3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_eclipse_aether_aether_spi_0_9_0_M3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_eclipse_aether_aether_util_0_9_0_M3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_fusesource_jansi_jansi_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_ejb3_persistence_1_0_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_annotations_3_4_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_commons_annotations_3_1_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_core_4_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_core_4_3_7_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_4_3_7_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_aesh_aesh_0_33_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_config_arquillian_config_api_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_config_arquillian_config_impl_base_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_container_arquillian_container_impl_base_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_container_arquillian_container_spi_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_container_arquillian_container_test_api_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_container_arquillian_container_test_impl_base_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_container_arquillian_container_test_spi_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_core_arquillian_core_api_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_core_arquillian_core_impl_base_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_core_arquillian_core_spi_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_persistence_api_1_0_0_Alpha6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_persistence_impl_1_0_0_Alpha6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_transaction_api_1_0_0_Alpha3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_transaction_impl_base_1_0_0_Alpha3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_transaction_jta_1_0_0_Alpha3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_extension_arquillian_transaction_spi_1_0_0_Alpha3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_junit_arquillian_junit_container_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_junit_arquillian_junit_core_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_protocol_arquillian_protocol_jmx_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_protocol_arquillian_protocol_servlet_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_test_arquillian_test_api_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_test_arquillian_test_impl_base_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_test_arquillian_test_spi_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_cdi_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_ejb_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_initialcontext_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_osgi_2_1_0_CR2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_arquillian_testenricher_arquillian_testenricher_resource_1_1_8_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_invocation_jboss_invocation_1_2_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_jandex_1_2_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_jboss_common_core_2_2_22_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_jboss_dmr_1_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_jboss_vfs_3_2_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_4_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_logmanager_jboss_logmanager_1_5_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_marshalling_jboss_marshalling_1_4_9_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_marshalling_jboss_marshalling_river_1_4_9_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_modules_jboss_modules_1_3_3_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_msc_jboss_msc_1_2_2_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_osgi_metadata_jbosgi_metadata_3_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_remoting_jboss_remoting_4_0_6_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_remotingjmx_remoting_jmx_2_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_resteasy_resteasy_jaxrs_2_3_5_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_sasl_jboss_sasl_1_0_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_api_base_2_0_0_alpha_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_descriptors_shrinkwrap_descriptors_spi_2_0_0_alpha_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_api_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_impl_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_resolver_shrinkwrap_resolver_spi_maven_2_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_shrinkwrap_api_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_shrinkwrap_impl_base_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_shrinkwrap_shrinkwrap_spi_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_1_spec_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_spec_javax_ejb_jboss_ejb_api_3_2_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_1_1_spec_1_0_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_staxmapper_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_stdio_jboss_stdio_1_0_2_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_threads_jboss_threads_2_1_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_xnio_xnio_api_3_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jboss_xnio_xnio_nio_3_3_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_jsoup_jsoup_1_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_osgi_org_osgi_core_5_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_2_jbossorg_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_5_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_security_wildfly_security_manager_1_0_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_arquillian_common_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_arquillian_container_managed_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_arquillian_protocol_jmx_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_arquillian_testenricher_msc_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_build_config_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_cli_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_controller_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_controller_client_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_core_security_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_core_security_api_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_deployment_repository_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_domain_http_interface_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_domain_management_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_io_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_jmx_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_network_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_patching_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_platform_mbean_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_process_controller_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_protocol_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_remoting_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_server_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_version_8_2_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_yaml_snakeyaml_1_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\domain.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\java\ban\org\entities\SampleEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\java\org\ban\entities\SampleEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\classes\ban\org\entities\SampleEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\domain.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\src\main\java\ban\org\services\SampleService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\src\main\java\org\ban\services\SampleService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\classes\ban\org\services\SampleService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-classes\arquillian.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\test\test.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\java\ban\org\servlet\SampleServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\c3p0-0.9.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\classmate-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\commons-email-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\domain-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\ejb-api-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\ejb3-persistence-1.0.2.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-annotations-3.4.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-commons-annotations-3.1.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-commons-annotations-4.0.4.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-core-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-entitymanager-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-validator-5.1.3.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\jandex-1.2.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\javassist-3.18.1-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\javassist-3.9.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\jboss-logging-3.1.4.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\mail-1.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\mysql-connector-java-5.1.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\parser-1.3.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\slf4j-api-1.7.2.jbossorg-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\slf4j-log4j12-1.5.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\web-ejb-1.3.0-SNAPSHOT.jar" afterPath="" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\pom.xml" afterPath="$PROJECT_DIR$/module-domain/pom.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\resources\META-INF\persistence.xml" afterPath="$PROJECT_DIR$/module-domain/src/main/resources/META-INF/persistence.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\classes\META-INF\persistence.xml" afterPath="$PROJECT_DIR$/module-domain/target/classes/META-INF/persistence.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-domain/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\pom.xml" afterPath="$PROJECT_DIR$/module-ejb/pom.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\service.iml" afterPath="$PROJECT_DIR$/module-service/module-service.iml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-ejb/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\pom.xml" afterPath="$PROJECT_DIR$/module-test/pom.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\src\test\resources\arquillian.xml" afterPath="$PROJECT_DIR$/module-test/target/test-classes/arquillian.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\src\test\resources\jboss-deployment-structure.xml" afterPath="$PROJECT_DIR$/module-test/src/test/resources/jboss-deployment-structure.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-test/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="$PROJECT_DIR$/module-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/module-test/target/test-1.0-SNAPSHOT.jar" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-classes\jboss-deployment-structure.xml" afterPath="$PROJECT_DIR$/module-test/target/test-classes/jboss-deployment-structure.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\pom.xml" afterPath="$PROJECT_DIR$/module-web/pom.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\java\org\ban\servlet\SampleServlet.java" afterPath="$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/SampleServlet.java" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\webapp\WEB-INF\web.xml" afterPath="$PROJECT_DIR$/module-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\classes\org\ban\servlet\SampleServlet.class" afterPath="$PROJECT_DIR$/module-web/target/classes/org/ban/servlet/SampleServlet.class" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-web/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\web.iml" afterPath="$PROJECT_DIR$/module-web/module-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/domain_ejb_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/domain_ejb_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/ear.iml" afterPath="$PROJECT_DIR$/ear/ear.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ear_ear_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ear_ear_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/parent-ear.iml" afterPath="$PROJECT_DIR$/ear/parent-ear.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parent.iml" afterPath="$PROJECT_DIR$/parent.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/pom.xml" afterPath="$PROJECT_DIR$/domain/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/pom.xml" afterPath="$PROJECT_DIR$/ear/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/pom.xml" afterPath="$PROJECT_DIR$/service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/service.iml" afterPath="$PROJECT_DIR$/service/service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/web.iml" afterPath="$PROJECT_DIR$/web/web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/service_ejb.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/service_ejb.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/service_ejb_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/service_ejb_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +264,6 @@
     <ignored path="$PROJECT_DIR$/ear/target/" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/test/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +271,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <loadPerTestData>true</loadPerTestData>
+    <filteredHighlight>-11513776</filteredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <periodicRefresh>false</periodicRefresh>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <flushPolicy>0</flushPolicy>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
+    <manualInitString null="true" />
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <showInline>true</showInline>
+    <flushInterval>5000</flushInterval>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+    <autoRefresh>true</autoRefresh>
+    <coveredHighlight>-16756736</coveredHighlight>
+    <enabled>false</enabled>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <filteredStripe>-4144960</filteredStripe>
+    <excludes null="true" />
+    <instrumentTests>true</instrumentTests>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <outOfDateHighlight>-16777201</outOfDateHighlight>
+    <notCoveredHighlight>-11534336</notCoveredHighlight>
+    <hideFullyCovered>false</hideFullyCovered>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <includes null="true" />
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <viewCoverage>true</viewCoverage>
+    <contextFilterSpec />
+    <coveredStripe>-16711936</coveredStripe>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <autoScroll>true</autoScroll>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <showGutter>true</showGutter>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <regexpContexts class="java.util.ArrayList" />
+    <showErrorMarks>true</showErrorMarks>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <flattenPackages>false</flattenPackages>
+    <showTooltips>true</showTooltips>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <span>0</span>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <generatedInitString>C:\dev\Java-EE-7-Skeleton\.clover\coverage.db</generatedInitString>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <failedCoveredHighlight>-11513856</failedCoveredHighlight>
+    <highlightCovered>true</highlightCovered>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -72,101 +340,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreditCheckEndpointBean.wsdl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.wsdl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreditCheckEndpointBean.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20552677" vertical-offset="0" max-vertical-offset="579">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerFacadeBean.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/CustomerFacadeBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-ejb/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66235864">
-              <caret line="59" column="76" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="2414">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-web/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parent.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parent.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <file leaf-file-name="CreditCheckEndpointBean.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckEndpointBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <caret line="36" column="142" selection-start-line="36" selection-start-column="128" selection-end-line="36" selection-end-column="142" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/pom.xml">
+      <file leaf-file-name="CreditCheckResponse.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="901">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <file leaf-file-name="CreditCheck.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arquillian.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/test/resources/arquillian.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ear/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="1020">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -174,42 +446,74 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/web/pom.xml" />
-        <option value="$PROJECT_DIR$/domain/pom.xml" />
-        <option value="$PROJECT_DIR$/ear/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/test/src/test/resources/arquillian.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
-        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java" />
+        <option value="$PROJECT_DIR$/test/src/test/resources/META-INF/persistance.xml" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/CartItem.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Address.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/BusinessContact.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Customer.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/CustomerOrder.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Distributor.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Individual.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/InventoryItem.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/OrderItem.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Supplier.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/Wine.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/WineItem.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/test/JavaServiceFacadeClient.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/test/JavaServiceFacade.java" />
+        <option value="$PROJECT_DIR$/domain/src/main/java/org/ban/entities/test/PopulateDemoData.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/ShoppingCartLocal.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/SearchFacadeLocal.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/SearchFacadeBean.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/PurchaseOrder.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/OrderProcessFacadeBean.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/CustomerFacadeBean.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/mdb/OrderProcessingMDBBean.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/ShoppingCartBean.java" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/module-test/pom.xml" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/CreditCheckEndpointBean.java" />
+        <option value="$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/CustomerFacadeBean.java" />
+        <option value="$PROJECT_DIR$/module-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/ear/pom.xml" />
+        <option value="$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/mdb/StatusMailerBean.java" />
+        <option value="$PROJECT_DIR$/module-ejb/pom.xml" />
+        <option value="$PROJECT_DIR$/module-service/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheck.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckResponse.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditService.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.xsd_1.xsd" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckEndpointBean.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/package-info.java" />
+        <option value="$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/OrderProcessFacadeBean.java" />
+        <option value="$PROJECT_DIR$/module-web/pom.xml" />
+        <option value="$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/test/PopulateDemoData.java" />
+        <option value="$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/ShoppingCartClient.java" />
+        <option value="$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.wsdl" />
+        <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -243,24 +547,11 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Profiles" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
-        </PATH_ELEMENT>
-      </PATH>
     </treeState>
-  </component>
-  <component name="NamedScopeManager">
-    <order />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="1592" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
@@ -277,6 +568,9 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -291,8 +585,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,7 +600,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -318,25 +610,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="module-web" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -346,67 +624,27 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="module-web" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -416,55 +654,27 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="module-web" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ear" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -474,15 +684,253 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="module-test" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-service" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-service" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-service" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-service" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ban" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generated" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-service" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ban" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="endpoint" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-ejb" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-ejb" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facades" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-domain" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-domain" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java-EE-7-Skeleton" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module-domain" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,9 +940,10 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/pom.xml" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -508,88 +957,109 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <module />
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -627,6 +1097,42 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
@@ -641,205 +1147,125 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <pass-parent-envs>true</pass-parent-envs>
+      <module name="" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6d7df853-ef7f-49dc-9cd2-7968eddfb9bb" name="Default" comment="" />
       <created>1431351307987</created>
-      <option name="number" value="Default" />
       <updated>1431351307987</updated>
       <workItem from="1431351309250" duration="1925000" />
       <workItem from="1431436128286" duration="4491000" />
       <workItem from="1432907410858" duration="2749000" />
+      <workItem from="1432973400337" duration="32000" />
+      <workItem from="1432973441242" duration="68000" />
+      <workItem from="1432973583423" duration="3041000" />
+      <workItem from="1432976631575" duration="3582000" />
+      <workItem from="1432983283675" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9165000" />
+    <option name="totallyTimeSpent" value="16271000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="1592" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32953367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24200426" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32800853" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -853,125 +1279,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/CustomerFacadeBean.java</url>
+          <line>1</line>
           <properties />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/org/ban/servlet/SampleServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parent.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/domain.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ear/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="179" column="30" selection-start-line="179" selection-start-column="30" selection-end-line="179" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -979,117 +1320,391 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ear/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/SampleServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/org/ban/servlet/SampleServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/domain.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parent.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="566">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-test/src/test/resources/arquillian.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-test/src/test/resources/META-INF/persistance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/CartItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2652">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/CustomerOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Distributor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/InventoryItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Wine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/WineItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/test/JavaServiceFacadeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/test/JavaServiceFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1168" max-vertical-offset="1734">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1343">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/BusinessContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="1173">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/ShoppingCartBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2244">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#2320#2321#0" expanded="true" />
+            <element signature="e#2350#2351#0" expanded="true" />
+            <element signature="e#2523#2524#0" expanded="true" />
+            <element signature="e#2563#2564#0" expanded="true" />
+            <element signature="e#2762#2763#0" expanded="true" />
+            <element signature="e#2839#2840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/SearchFacadeLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/test/resources/arquillian.xml">
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/SearchFacadeBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.iml">
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/PurchaseOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ear/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="1020">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/ShoppingCartLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="1037">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/mdb/StatusMailerBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/javax/xml/ws/WebServiceRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2159">
+          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/mdb/OrderProcessingMDBBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.84" vertical-offset="822" max-vertical-offset="1445">
+          <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3808">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+          <caret line="83" column="65" selection-start-line="83" selection-start-column="65" selection-end-line="83" selection-end-column="65" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/org/ban/services/SampleService.java">
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/ObjectFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="1190">
+          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/OrderProcessFacadeBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="2448">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1071">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-domain/src/main/java/org/ban/entities/test/PopulateDemoData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="2312">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/ShoppingCartClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="737" max-vertical-offset="2210">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.xsd_1.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="425">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.wsdl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="1020">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckEndpointBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="816">
+          <caret line="36" column="142" selection-start-line="36" selection-start-column="128" selection-end-line="36" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/generated/CreditCheckResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="901">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66235864">
-          <caret line="59" column="76" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="2414">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="680">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-ejb/src/main/java/org/ban/facades/CustomerFacadeBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20552677" vertical-offset="0" max-vertical-offset="579">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
 </project>
+

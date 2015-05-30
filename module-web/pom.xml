@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<groupId>org.ban</groupId>
+		<artifactId>parent</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+
+	<artifactId>module-web</artifactId>
+	<packaging>war</packaging>
+
+	<build>
+		<finalName>${project.artifactId}</finalName>
+
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifestEntries>
+							<Class-Path>module-service-${project.version}.jar</Class-Path>
+						</manifestEntries>
+					</archive>
+
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>javax</groupId>
+			<artifactId>javaee-api</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.ban</groupId>
+			<artifactId>module-service</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.ban</groupId>
+			<artifactId>module-domain</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.ban</groupId>
+			<artifactId>module-ejb</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+
+
+</project>

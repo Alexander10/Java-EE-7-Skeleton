@@ -1,0 +1,9 @@
+org\ban\facades\ShoppingCartLocal.class
+org\ban\facades\PurchaseOrder.class
+org\ban\facades\CustomerFacadeBean.class
+org\ban\facades\mdb\OrderProcessingMDBBean.class
+org\ban\facades\SearchFacadeLocal.class
+org\ban\facades\ShoppingCartBean.class
+org\ban\facades\OrderProcessFacadeBean.class
+org\ban\facades\mdb\StatusMailerBean.class
+org\ban\facades\SearchFacadeBean.class
