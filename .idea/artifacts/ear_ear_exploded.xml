@@ -9,11 +9,6 @@
       <element id="archive" name="module-service-1.0-SNAPSHOT.jar">
         <element id="module-output" name="module-service (1)" />
       </element>
-      <element id="directory" name="lib">
-        <element id="library" level="project" name="Maven: javax:javaee-api:7.0" />
-        <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.5.0" />
-        <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
-      </element>
     </root>
   </artifact>
 </component>

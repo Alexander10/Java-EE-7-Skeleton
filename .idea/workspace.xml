@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7df853-ef7f-49dc-9cd2-7968eddfb9bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-test/src/test/resources/arquillian.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-test/src/test/resources/META-INF/persistance.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module-service/pom.xml" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__c3p0_c3p0_0_9_1.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
@@ -162,29 +159,80 @@
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_server_8_2_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_wildfly_wildfly_version_8_2_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\.idea\libraries\Maven__org_yaml_snakeyaml_1_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\domain.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\java\ban\org\entities\SampleEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\java\org\ban\entities\SampleEntity.java" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\classes\ban\org\entities\SampleEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\domain.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\src\main\java\ban\org\services\SampleService.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\src\main\java\org\ban\services\SampleService.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\META-INF\persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Address.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\BusinessContact.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\CartItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\CustomerOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Distributor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Individual.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\InventoryItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\OrderItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\SampleEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Supplier.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\Wine.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\WineItem.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\test\JavaServiceFacade.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\test\JavaServiceFacadeClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\classes\org\ban\entities\test\PopulateDemoData.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\domain.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-domain\target\module-domain.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\CustomerFacadeBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\OrderProcessFacadeBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\PurchaseOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\SearchFacadeBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\SearchFacadeLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\ShoppingCartBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\ShoppingCartLocal.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\mdb\OrderProcessingMDBBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\facades\mdb\StatusMailerBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\classes\org\ban\services\SampleService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\module-ejb-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-ejb\target\service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\CreditCheckEndpointBean.wsdl" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\CreditCheckEndpointBean.xsd_1.xsd" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\endpoint\CreditCheckEndpointBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\CreditCheck.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\CreditCheckEndpointBean.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\CreditCheckResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\CreditService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\ObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\classes\org\ban\generated\package-info.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-service\target\module-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\classes\org\ban\servlet\SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\classes\org\ban\servlet\ShoppingCartClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\classes\org\ban\servlet\SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\classes\org\ban\servlet\ShoppingCartClient.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\lib\module-domain-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\lib\module-ejb-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\lib\module-service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\module-web\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\web.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\web\WEB-INF\classes\org\ban\servlet\SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\web\WEB-INF\lib\domain-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\web\WEB-INF\lib\service-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\module-web\target\web\WEB-INF\web.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\classes\ban\org\services\SampleService.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\service-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-classes\arquillian.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\test\test.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\java\ban\org\servlet\SampleServlet.java" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web.war" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\classes\ban\org\servlet\SampleServlet.class" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\antlr-2.7.7.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\c3p0-0.9.1.jar" afterPath="" />
@@ -192,7 +240,6 @@
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\commons-email-1.2.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\commons-lang-2.6.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\domain-1.0-SNAPSHOT.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\ejb-api-3.0.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\ejb3-persistence-1.0.2.GA.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\hibernate-annotations-3.4.0.GA.jar" afterPath="" />
@@ -209,50 +256,11 @@
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\mail-1.4.1.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\mysql-connector-java-5.1.23.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\parser-1.3.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\service-1.0-SNAPSHOT.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\slf4j-api-1.7.2.jbossorg-1.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\slf4j-log4j12-1.5.8.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\validation-api-1.1.0.Final.jar" afterPath="" />
       <change type="DELETED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\web\WEB-INF\lib\web-ejb-1.3.0-SNAPSHOT.jar" afterPath="" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\pom.xml" afterPath="$PROJECT_DIR$/module-domain/pom.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\src\main\resources\META-INF\persistence.xml" afterPath="$PROJECT_DIR$/module-domain/src/main/resources/META-INF/persistence.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\classes\META-INF\persistence.xml" afterPath="$PROJECT_DIR$/module-domain/target/classes/META-INF/persistence.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\domain\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-domain/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\pom.xml" afterPath="$PROJECT_DIR$/module-ejb/pom.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\service.iml" afterPath="$PROJECT_DIR$/module-service/module-service.iml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\service\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-ejb/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\pom.xml" afterPath="$PROJECT_DIR$/module-test/pom.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\src\test\resources\arquillian.xml" afterPath="$PROJECT_DIR$/module-test/target/test-classes/arquillian.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\src\test\resources\jboss-deployment-structure.xml" afterPath="$PROJECT_DIR$/module-test/src/test/resources/jboss-deployment-structure.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-test/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="$PROJECT_DIR$/module-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/module-test/target/test-1.0-SNAPSHOT.jar" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\test\target\test-classes\jboss-deployment-structure.xml" afterPath="$PROJECT_DIR$/module-test/target/test-classes/jboss-deployment-structure.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\pom.xml" afterPath="$PROJECT_DIR$/module-web/pom.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\java\org\ban\servlet\SampleServlet.java" afterPath="$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/SampleServlet.java" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\src\main\webapp\WEB-INF\web.xml" afterPath="$PROJECT_DIR$/module-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\classes\org\ban\servlet\SampleServlet.class" afterPath="$PROJECT_DIR$/module-web/target/classes/org/ban/servlet/SampleServlet.class" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\target\maven-archiver\pom.properties" afterPath="$PROJECT_DIR$/module-web/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="C:\dev\Java-EE-7-Skeleton\web\web.iml" afterPath="$PROJECT_DIR$/module-web/module-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/domain_ejb_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/domain_ejb_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/ear.iml" afterPath="$PROJECT_DIR$/ear/ear.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/ear_ear_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ear_ear_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/parent-ear.iml" afterPath="$PROJECT_DIR$/ear/parent-ear.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parent.iml" afterPath="$PROJECT_DIR$/parent.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/parent_ear_ear_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ear/pom.xml" afterPath="$PROJECT_DIR$/ear/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/service_ejb.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/service_ejb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/service_ejb_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/service_ejb_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parent.iws" />
@@ -354,7 +362,7 @@
         <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.20552677" vertical-offset="0" max-vertical-offset="579">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -397,8 +405,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="2414">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="2210">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -484,7 +492,6 @@
         <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/mdb/OrderProcessingMDBBean.java" />
         <option value="$PROJECT_DIR$/service/src/main/java/org/ban/services/ShoppingCartBean.java" />
         <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
         <option value="$PROJECT_DIR$/module-test/pom.xml" />
         <option value="$PROJECT_DIR$/module-service/src/main/java/CreditCheckEndpointBean.java" />
@@ -508,6 +515,7 @@
         <option value="$PROJECT_DIR$/module-web/src/main/java/org/ban/servlet/ShoppingCartClient.java" />
         <option value="$PROJECT_DIR$/module-service/src/main/resources/CreditCheckEndpointBean.wsdl" />
         <option value="$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -613,94 +621,6 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module-web" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-web" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-web" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-test" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="module-service" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -742,10 +662,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -776,10 +692,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ban" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generated" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -814,116 +726,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="endpoint" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-ejb" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-ejb" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facades" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-domain" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-domain" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java-EE-7-Skeleton" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module-domain" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="entities" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1219,12 +1021,12 @@
       <workItem from="1432973441242" duration="68000" />
       <workItem from="1432973583423" duration="3041000" />
       <workItem from="1432976631575" duration="3582000" />
-      <workItem from="1432983283675" duration="383000" />
+      <workItem from="1432983283675" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16271000" />
+    <option name="totallyTimeSpent" value="16510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1096" extended-state="6" />
@@ -1661,14 +1463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="2414">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module-ejb/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="680">
@@ -1695,10 +1489,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31" max-vertical-offset="2210">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module-service/src/main/java/org/ban/endpoint/CreditCheckEndpointBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20552677" vertical-offset="0" max-vertical-offset="579">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
