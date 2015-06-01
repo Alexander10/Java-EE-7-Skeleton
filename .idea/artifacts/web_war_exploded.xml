@@ -8,7 +8,16 @@
           <element id="module-output" name="module-web" />
         </element>
         <element id="directory" name="lib">
+<<<<<<< Updated upstream
           <element id="library" level="project" name="Maven: org.ban:module-service:1.0-SNAPSHOT" />
+=======
+          <element id="archive" name="service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="service" />
+          </element>
+          <element id="archive" name="domain-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="domain" />
+          </element>
+>>>>>>> Stashed changes
         </element>
       </element>
     </root>

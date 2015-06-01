@@ -15,6 +15,7 @@
 		<module>module-service</module>
 		<module>module-domain</module>
 		<module>module-ejb</module>
+		<module>module-test</module>
 	</modules>
 
 	<properties>
